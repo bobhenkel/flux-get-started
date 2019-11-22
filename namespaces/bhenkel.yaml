@@ -3,5 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: bob
-    age: 18
+    age: "18"
   name: bob
