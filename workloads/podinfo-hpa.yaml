@@ -16,4 +16,4 @@ spec:
       name: cpu
       # scale up if usage is above
       # 99% of the requested CPU (10m)
-      targetAverageUtilization: 70
+      targetAverageUtilization: 19
